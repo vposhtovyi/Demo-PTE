@@ -4,6 +4,9 @@
       "path": "DemoApp"
     },
     {
+      "path": "DemoApp-Test"
+    },
+    {
       "path": ".AL-Go"
     }
   ],
